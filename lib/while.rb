@@ -10,4 +10,4 @@ def expect using_while
   "Wingardium Leviosa"
   "Wingardium Leviosa"
   "Wingardium Leviosa"
-end
+
