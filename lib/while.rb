@@ -10,4 +10,4 @@ def expect using_while looping_string
   "Wingardium Leviosa"
   "Wingardium Leviosa"
   "Wingardium Leviosa"
-end-of-input
+'end-of-input'
