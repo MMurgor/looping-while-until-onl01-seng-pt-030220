@@ -12,5 +12,5 @@ def using_until
   "Wingardium Leviosa"
   
   
-  'end-of-input'
-
+  
+end
