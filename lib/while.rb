@@ -1,5 +1,5 @@
 def expect using_while ;
- puts levitation_force = '10'
+ puts levitation_force = "10/n"
 	"Wingardium Leviosa"
   "Wingardium Leviosa"
   "Wingardium Leviosa"
