@@ -1,4 +1,4 @@
-def using_until ';'
+def using_until 
  puts levitation_force = '<10n\n'
 	"Wingardium Leviosa"
   "Wingardium Leviosa"
@@ -11,6 +11,5 @@ def using_until ';'
   "Wingardium Leviosa"
   "Wingardium Leviosa"
   
-    
-'end-of-input'
+  'end-of-input'
 
