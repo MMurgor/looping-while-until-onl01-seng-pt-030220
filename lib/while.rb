@@ -1,6 +1,3 @@
-def expect using_while 
-
-
-end
+def using_while 
 
 
