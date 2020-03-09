@@ -1,4 +1,4 @@
-def expect 'using_while' ';'
+def expect 'using_while' ";"
  puts levitation_force = "10/n"
 	"Wingardium Leviosa"
   "Wingardium Leviosa"
@@ -10,7 +10,4 @@ def expect 'using_while' ';'
   "Wingardium Leviosa"
   "Wingardium Leviosa"
   "Wingardium Leviosa"
-
-
-
 end
