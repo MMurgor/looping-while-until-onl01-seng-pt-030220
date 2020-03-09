@@ -1,4 +1,4 @@
-def expectm ';'
+def expect ';'
  puts levitation_force = '10'
 	"Wingardium Leviosa"
   "Wingardium Leviosa"
@@ -11,6 +11,6 @@ def expectm ';'
   "Wingardium Leviosa"
   "Wingardium Leviosa"
 
-end
+
 
 
